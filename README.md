@@ -1,0 +1,2 @@
+# Practice_DeepLearning
+ゼロから作るDeep Learningの学習メモ
